@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "title": "Learn Node Js",
+      "completed": true,
+      "id": "4"
+    },
+    {
+      "title": "Learn Express Js",
+      "completed": false,
+      "id": "6"
+    },
+    {
+      "title": "Learn Next Js",
+      "completed": false,
+      "id": "JW5Actc"
+    },
+    {
+      "title": "Learn Redux",
+      "completed": false,
+      "id": "QPk9DbZ"
+    },
+    {
+      "title": "Learn React",
+      "completed": true,
+      "id": "UA8GLc-"
+    },
+    {
+      "title": "Learn Python",
+      "completed": false,
+      "id": "8sesT8j"
+    },
+    {
+      "title": "Learn C++",
+      "completed": true,
+      "id": "zi0hKRf"
+    }
+  ]
+}

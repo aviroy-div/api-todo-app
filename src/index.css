@@ -1,0 +1,55 @@
+* {
+  list-style: none;
+}
+.banner {
+  background: url(/src/assets/image/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.banner_overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+.btn_form {
+  right: 0;
+  margin-left: 20px;
+  padding: 5px 30px;
+  border-radius: 30px;
+  background-color: darkcyan;
+  border: 1px solid white;
+  color: white;
+}
+
+.list_c {
+  color: #fff !important;
+  font-weight: bold;
+  background-color: darkcyan;
+  margin-left: 10px;
+  padding: 2px 30px;
+  border-radius: 20px;
+}
+.list_li {
+  position: relative;
+
+  margin-top: 10px;
+  width: 70%;
+  margin-right: 30%;
+}
+.btn_form_1 {
+  position: absolute;
+  position: absolute;
+  right: 220px;
+  font-weight: bold;
+  margin: 5px;
+  margin-left: 20px;
+  padding: 0px 30px;
+  border-radius: 30px;
+  background-color: darkcyan;
+  border: 1px solid white;
+  color: white;
+}
+.todo-list {
+  margin: 30px;
+  color: #fff;
+}
